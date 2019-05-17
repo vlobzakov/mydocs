@@ -1,0 +1,11 @@
+.idea
+.svn
+target
+*.class
+*.war
+*.log
+*-temp-*
+.clover
+.DS_Store
+*.pyc
+*.egg-info*
