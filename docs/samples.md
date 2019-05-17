@@ -201,7 +201,7 @@
     </tr>
     <tr>
         <td id="first-col">
-            <a target="_blank" href="https://github.com/jelastic-jps/mariadb-replication">MariaDB Cluster</a>
+            <a target="_blank" href="https://github.com/jelastic-jps/mariadb-replication">MariaDB Multi-Cluster</a>
         </td>
         <td>
             MariaDB Cluster with preconfigured Master-Slave replication
